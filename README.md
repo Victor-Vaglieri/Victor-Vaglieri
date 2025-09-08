@@ -51,12 +51,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Victor-Vaglieri/Victor-Vaglieri/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-Vaglieri&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
+
+![](https://github-contributor-stats.vercel.app/api?username=victor-vaglieri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
