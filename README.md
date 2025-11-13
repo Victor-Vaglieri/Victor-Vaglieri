@@ -59,7 +59,7 @@
 
 ###
 
-![](https://github-contributor-stats.vercel.app/api?username=victor-vaglieri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=victor-vaglieri&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
 
 
