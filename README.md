@@ -1,10 +1,11 @@
 ### I'm Victor, freelance developer   
   
 
--  I’m working on [AppControle](https://github.com/Victor-Vaglieri/AppControle)  
-  
+-  I’m working on [AppControle](https://github.com/Victor-Vaglieri/AppControle) to learn and manage my personal expenses.
+-  I’m working on [SisEye](https://github.com/Victor-Vaglieri/SisEye) to learn and build my own security system.
 
-- I’m learning Kotlin and MVVM  
+
+- I’m learning Kotlin, MVVM, ONVIF and RTSP Protocol 
 <br/>
 
 ## My Skill Set  
