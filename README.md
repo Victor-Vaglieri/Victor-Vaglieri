@@ -1,9 +1,9 @@
 ### I'm Victor, freelance developer   
   
-
--  I’m working on [AppControle](https://github.com/Victor-Vaglieri/AppControle) to learn and manage my personal expenses.
--  I’m working on [SisEye](https://github.com/Victor-Vaglieri/SisEye) to learn and build my own security system.
--  I’m working on [AI DE&S](https://github.com/Victor-Vaglieri/AI-DE-S) to learn and build my own security system.
+- I’m currently working on:
+    1. [AppControle](https://github.com/Victor-Vaglieri/AppControle): Building a mobile solution to automate and streamline personal expense management.
+    2. [AI DE&S](https://github.com/Victor-Vaglieri/AI-DE-S): Architecting an AI-powered ETL pipeline to automate data extraction into GitHub Projects and Obsidian.
+    3. [SisEye](https://github.com/Victor-Vaglieri/SisEye): Developing a private security infrastructure with live ONVIF camera streaming and monitoring.
 
 - I’m learning:
     + Kotlin
