@@ -3,9 +3,16 @@
 
 -  I’m working on [AppControle](https://github.com/Victor-Vaglieri/AppControle) to learn and manage my personal expenses.
 -  I’m working on [SisEye](https://github.com/Victor-Vaglieri/SisEye) to learn and build my own security system.
+-  I’m working on [AI DE&S](https://github.com/Victor-Vaglieri/AI-DE-S) to learn and build my own security system.
 
-
-- I’m learning Kotlin, MVVM, ONVIF and RTSP Protocol 
+- I’m learning:
+    + Kotlin
+    + MVVM
+    + ONVIF
+    + RTSP Protocol
+    + GraphQL
+    + Pydantic
+    + Prompt Engineering for ETL 
 <br/>
 
 ## My Skill Set  
