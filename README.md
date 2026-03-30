@@ -83,10 +83,10 @@
 <a href="https://github.com/Victor-Vaglieri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/victor-v-9b9711142" target="_blank">
+<a href="https://www.linkedin.com/in/victor-vaglieri-de-oliveira/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://leetcode.com/u/SEU_USUARIO/" target="_blank">
+<a href="https://leetcode.com/u/VictorVaglieri/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
