@@ -3,13 +3,11 @@
 - I’m currently working on:
     1. [AppControle](https://github.com/Victor-Vaglieri/AppControle) **(In Testing)** : Building a mobile solution to automate and streamline personal expense management.
     2. [AI DE&S](https://github.com/Victor-Vaglieri/AI-DE-S) **(In Testing)** : Architecting an AI-powered ETL pipeline to automate data extraction into GitHub Projects and Obsidian.
-    3. [SisEye](https://github.com/Victor-Vaglieri/SisEye): Developing a private security infrastructure with live ONVIF camera streaming and monitoring.
+    3. LiveFolio (In Development) : Architecting an event-driven portfolio engine using PHP 8.3 and Apache Kafka for real-time activity tracking.
 
 - I’m learning:
-    + Kotlin
-    + MVVM
-    + ONVIF
-    + RTSP Protocol
+    + Kotlin & MVVM
+    + PHP 8.3 & FrankenPHP
     + GraphQL
     + Pydantic
     + Prompt Engineering for ETL 
@@ -50,6 +48,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img style="margin: 10px" src="https://imgs.search.brave.com/yh7FCFwmD8aw77GjzaJWvsj9EhwY82lrffCmEfBdAa0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mbGFz/ay5wYWxsZXRzcHJv/amVjdHMuY29tL2Vu/L3N0YWJsZS9fc3Rh/dGljL2ZsYXNrLWxv/Z28uc3Zn" alt="Flask" height="50" /> </a>
 <a href="https://kotlinlang.org/" target="_blank"> <img style="margin: 10px" src="https://img.icons8.com/color/1200/kotlin.jpg" alt="Kotlin" height="50" /> </a>
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -58,7 +57,8 @@
 
 ### Other Skills  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/C2ryVxoSW_B1QK9qBnXfk3NS-4PvQhDWt8rUiG0QoVw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" alt="Kafka" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/343lVzUgksSEJ3pmCdawPOlAVoF6mxgWRQ4rm847dhQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDgvQW1hem9uLVdl/Yi1TZXJ2aWNlcy1B/V1MtU3ltYm9sLTcw/MHgzOTQucG5n" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
