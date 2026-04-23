@@ -57,7 +57,6 @@
 
 ### Other Skills  
 <div align="center">  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/C2ryVxoSW_B1QK9qBnXfk3NS-4PvQhDWt8rUiG0QoVw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE4NzlkYTMwNDhl/NDU5MTQ0ZDAzOGIu/cG5n" alt="Kafka" height="50" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://imgs.search.brave.com/343lVzUgksSEJ3pmCdawPOlAVoF6mxgWRQ4rm847dhQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDgvQW1hem9uLVdl/Yi1TZXJ2aWNlcy1B/V1MtU3ltYm9sLTcw/MHgzOTQucG5n" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
