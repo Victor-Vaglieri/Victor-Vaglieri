@@ -3,7 +3,7 @@
 - I’m currently working on:
     1. [AppControle](https://github.com/Victor-Vaglieri/AppControle) **(In Testing)** : Building a mobile solution to automate and streamline personal expense management.
     2. [AI DE&S](https://github.com/Victor-Vaglieri/AI-DE-S) **(In Testing)** : Architecting an AI-powered ETL pipeline to automate data extraction into GitHub Projects and Obsidian.
-    3. LiveFolio (In Development) : Architecting an event-driven portfolio engine using PHP 8.3 and Apache Kafka for real-time activity tracking.
+    3. [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) (In Development) : Architecting an event-driven portfolio engine using PHP 8.3 and Apache Kafka for real-time activity tracking.
 
 - I’m learning:
     + Kotlin & MVVM
