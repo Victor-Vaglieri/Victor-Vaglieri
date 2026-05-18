@@ -12,6 +12,7 @@
     + k3d
     + Helm
     + Resource Management
+    + Go
 <br/>
 
 
@@ -44,6 +45,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
         <img style="margin: 10px" src="https://img.icons8.com/color/1200/kotlin.jpg" alt="Kotlin" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
       </div>
     </td>
   </tr>
@@ -70,6 +72,10 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />
         <img style="margin: 10px" src="https://styles.redditmedia.com/t5_2mz3dr/styles/communityIcon_l538j35ftd3b1.png" alt="Obsidian" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="50" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
       </div>
     </td>
   </tr>
