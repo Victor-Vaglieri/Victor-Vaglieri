@@ -32,6 +32,8 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PyQt6" height="50" />
       </div>
     </td>
     <td valign="top" width="50%" align="left">
@@ -46,6 +48,11 @@
         <img style="margin: 10px" src="https://img.icons8.com/color/1200/kotlin.jpg" alt="Kotlin" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
+        <img style="margin: 10px" src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" height="50" />
+        <img style="margin: 10px" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="50" />
       </div>
     </td>
   </tr>
@@ -56,8 +63,10 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original.svg" alt="Redis" height="50" />
+        <img style="margin: 10px" src="https://imgs.search.brave.com/CmNnH4Zd3Nx6VA40z0RI-AxVzB7KBPjyicM1ZUc6Ex4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1JlZGlzLnN2/Zw" alt="Redis" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" />
+        <img style="margin: 10px" src="https://skills.syvixor.com/api/icons?i=chroma" alt="ChromaDB" height="50" />
       </div>
     </td>
     <td valign="top" width="50%" align="left">
@@ -76,6 +85,11 @@
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" height="50" />
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" height="50" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="50" />
+        <img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" height="50" />
+        <img style="margin: 10px" src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" height="50" />
+        <img style="margin: 10px" src="https://imgs.search.brave.com/lVddufYk0NwPhcM4OGh89AWF-hn5U9eEQvU73w3W9B0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvcHJl/dmlld3MvMDIyLzIy/Ny8zNjQvbm9uXzJ4/L29wZW5haS1jaGF0/Z3B0LWxvZ28taWNv/bi1mcmVlLXBuZy5w/bmc" alt="OpenAI" height="50" />
       </div>
     </td>
   </tr>
