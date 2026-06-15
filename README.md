@@ -11,7 +11,12 @@
     + k3d
     + Helm
     + Resource Management
-    + 
+    + RAG Architecture
+    + ChromaDB
+    + LangChain
+    + Ollama
+    + Semantic Search
+    + Cross-Encoder Re-ranking
 <br/>
 
 
