@@ -1,18 +1,17 @@
 ### I'm Victor, freelance developer   
   
 - I’m currently working on:
-    1. [AppControle](https://github.com/Victor-Vaglieri/AppControle) **(In Testing)** : Building a mobile solution to automate and streamline personal expense management.
-    2. [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(In Testing)** : Architecting an event-driven portfolio engine using PHP 8.3 and Apache Kafka for real-time activity tracking.
-    3. [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) : Developing a programmable local infrastructure using k3d and Kubernetes to orchestrate backend microservices in Go, Node.js, and Python.
+    1. [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(In Testing)** : Architecting an event-driven portfolio engine using PHP 8.3 and Apache Kafka for real-time activity tracking.
+    2. [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(In Testing)** : Developing a programmable local infrastructure using k3d and Kubernetes to orchestrate backend microservices in Go, Node.js, and Python.
+    3. [book-brain](https://github.com/Victor-Vaglieri/book-brain) : Building a local-first AI PDF reader with RAG architecture, semantic search, contextual memory, and offline LLM inference using Ollama and ChromaDB.
 
 - I’m learning:
-    + Kotlin & MVVM
     + PHP 8.3 & FrankenPHP
     + Kubernetes
     + k3d
     + Helm
     + Resource Management
-    + Go
+    + 
 <br/>
 
 
