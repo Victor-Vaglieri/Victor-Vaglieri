@@ -1,22 +1,18 @@
-### I'm Victor, freelance developer   
+### I'm Victor, Software Engineer Full Stack
   
 - I’m currently working on:
-    1. [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(In Testing)** : Architecting an event-driven portfolio engine using PHP 8.3 and Apache Kafka for real-time activity tracking.
-    2. [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(In Testing)** : Developing a programmable local infrastructure using k3d and Kubernetes to orchestrate backend microservices in Go, Node.js, and Python.
-    3. [book-brain](https://github.com/Victor-Vaglieri/book-brain) : Building a local-first AI PDF reader with RAG architecture, semantic search, contextual memory, and offline LLM inference using Ollama and ChromaDB.
+    1. [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(Event-Driven Edition)** : Architecting a dynamic event-driven portfolio and CV Match engine using **Java 21, Spring Boot 3**, and **Redis Streams**, integrating with Next.js 14 and PostgreSQL (Supabase).
+    2. [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(Dev-as-Code Lab)** : Developing a programmable local infrastructure using **k3d (Kubernetes), Skaffold, and Helm** to orchestrate resilient microservices with native Prometheus and Grafana observability.
+    3. [book-brain](https://github.com/Victor-Vaglieri/book-brain) **(Smart PDF Reader)** : Building a local-first AI PDF reader with RAG architecture, semantic chunking (LangChain), cross-encoder re-ranking, and offline LLM inference using **Ollama** and **ChromaDB**.
+    4. [AI-DE-S](https://github.com/Victor-Vaglieri/AI-DE-S) : Designing an asynchronous ETL pipeline using Python, Playwright, and the Google Gemini API to scrape and structure web data into JSON/Pydantic schemas.
 
-- I’m learning:
-    + PHP 8.3 & FrankenPHP
-    + Kubernetes
-    + k3d
-    + Helm
-    + Resource Management
-    + RAG Architecture
-    + ChromaDB
-    + LangChain
-    + Ollama
-    + Semantic Search
-    + Cross-Encoder Re-ranking
+- I’m currently using & learning:
+    + Java 21 & Spring Boot 3
+    + Redis Streams & Event-Driven Architecture (EDA)
+    + Kubernetes (k3d), Docker, Helm & Skaffold
+    + Python, RAG Architecture & AI Automation (Gemini/Llama)
+    + Vector Databases (ChromaDB) & Semantic Search
+    + Next.js 14 & TypeScript
 <br/>
 
 
