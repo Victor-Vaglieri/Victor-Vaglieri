@@ -1,20 +1,19 @@
-### I'm Victor, Software Engineer Full Stack
-  
-- I’m currently working on:
-    1. [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(Event-Driven Edition)** : Architecting a dynamic event-driven portfolio and CV Match engine using **Java 21, Spring Boot 3**, and **Redis Streams**, integrating with Next.js 14 and PostgreSQL (Supabase).
-    2. [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(Dev-as-Code Lab)** : Developing a programmable local infrastructure using **k3d (Kubernetes), Skaffold, and Helm** to orchestrate resilient microservices with native Prometheus and Grafana observability.
-    3. [book-brain](https://github.com/Victor-Vaglieri/book-brain) **(Smart PDF Reader)** : Building a local-first AI PDF reader with RAG architecture, semantic chunking (LangChain), cross-encoder re-ranking, and offline LLM inference using **Ollama** and **ChromaDB**.
-    4. [AI-DE-S](https://github.com/Victor-Vaglieri/AI-DE-S) : Designing an asynchronous ETL pipeline using Python, Playwright, and the Google Gemini API to scrape and structure web data into JSON/Pydantic schemas.
+### I'm Victor, Software Engineer | Back-end & AI
+*Building resilient backend architectures and intelligent data pipelines.*
 
-- I’m currently using & learning:
-    + Java 21 & Spring Boot 3
-    + Redis Streams & Event-Driven Architecture (EDA)
-    + Kubernetes (k3d), Docker, Helm & Skaffold
-    + Python, RAG Architecture & AI Automation (Gemini/Llama)
-    + Vector Databases (ChromaDB) & Semantic Search
-    + Next.js 14 & TypeScript
-<br/>
+**What I'm currently architecting and developing:**
 
+* [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(Event-Driven Architecture)**: Engineering a high-performance portfolio and AI-powered CV matching engine using **Java 21, Spring Boot 3**, and **Redis Streams**, seamlessly integrated with Next.js 14 and PostgreSQL.
+* [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(Cloud-Native Lab)**: Orchestrating a programmable, production-inspired local infrastructure using **k3d (Kubernetes), Skaffold, and Helm**, featuring native observability with Prometheus and Grafana.
+* [book-brain](https://github.com/Victor-Vaglieri/book-brain) **(Local-First AI)**: Building a secure, offline AI PDF reader driven by a RAG architecture, semantic chunking (LangChain), cross-encoder re-ranking, and local LLM inference via **Ollama** and **ChromaDB**.
+* [AI-DE-S](https://github.com/Victor-Vaglieri/AI-DE-S) **(AI-Powered ETL)**: Designing resilient, asynchronous web-scraping and ETL pipelines with Python, Playwright, and the Google Gemini API to transform unstructured data into strictly typed JSON/Pydantic schemas.
+
+**Tech Stack & Current Focus:**
+
+* **Back-end & Architecture:** Java 21, Spring Boot 3, Redis Streams, Event-Driven Architecture (EDA)
+* **AI & Data Engineering:** Python, RAG Architecture, LangChain, Vector DBs (ChromaDB), GenAI (Gemini / Local LLMs)
+* **DevOps & Infra:** Kubernetes (k3d), Docker, Helm, Skaffold, Observability (Prometheus/Grafana)
+* **Front-end & Tooling:** Next.js 14, TypeScript, Supabase
 
 ## My Skill Set  
 
