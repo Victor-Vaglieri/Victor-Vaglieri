@@ -3,19 +3,23 @@
 
 **What I'm currently architecting and developing:**
 
+* **[NFSe SaaS Platform](https://github.com/Victor-Vaglieri/NFSe-Plat) (OCR & Multitenant Architecture)**: Architecting a robust SaaS platform for automated fiscal document management and OCR extraction. Engineered with a dual-backend strategy (**FastAPI/Python** and **Java 21/Spring Boot**), integrating **Next.js 14**, **PostgreSQL**, and native PDF parsing (Apache PDFBox) for intelligent data extraction.
 * [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(Event-Driven Architecture)**: Engineering a high-performance portfolio and AI-powered CV matching engine using **Java 21, Spring Boot 3**, and **Redis Streams**, seamlessly integrated with Next.js 14 and PostgreSQL.
-* [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(Cloud-Native Lab)**: Orchestrating a programmable, production-inspired local infrastructure using **k3d (Kubernetes), Skaffold, and Helm**, featuring native observability with Prometheus and Grafana.
-* [book-brain](https://github.com/Victor-Vaglieri/book-brain) **(Local-First AI)**: Building a secure, offline AI PDF reader driven by a RAG architecture, semantic chunking (LangChain), cross-encoder re-ranking, and local LLM inference via **Ollama** and **ChromaDB**.
-* [AI-DE-S](https://github.com/Victor-Vaglieri/AI-DE-S) **(AI-Powered ETL)**: Designing resilient, asynchronous web-scraping and ETL pipelines with Python, Playwright, and the Google Gemini API to transform unstructured data into strictly typed JSON/Pydantic schemas.
+
+**Recently Completed Projects:**
+
+* [AI-DE-S](https://github.com/Victor-Vaglieri/AI-DE-S) **(AI-Powered ETL)**: Designed and deployed resilient, asynchronous web-scraping and ETL pipelines with Python, Playwright, and the Google Gemini API to transform unstructured data into strictly typed JSON/Pydantic schemas.
+* [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(Cloud-Native Lab)**: Orchestrated a programmable, production-inspired local infrastructure using **k3d (Kubernetes), Skaffold, and Helm**, featuring native observability with Prometheus and Grafana.
+* [book-brain](https://github.com/Victor-Vaglieri/book-brain) **(Local-First AI)**: Built a secure, offline AI PDF reader driven by a RAG architecture, semantic chunking (LangChain), cross-encoder re-ranking, and local LLM inference via **Ollama** and **ChromaDB**.
 
 **Tech Stack & Current Focus:**
 
-* **Back-end & Architecture:** Java 21, Spring Boot 3, Redis Streams, Event-Driven Architecture (EDA)
-* **AI & Data Engineering:** Python, RAG Architecture, LangChain, Vector DBs (ChromaDB), GenAI (Gemini / Local LLMs)
+* **Back-end & Architecture:** Java 21, Spring Boot 3, Redis Streams, Event-Driven Architecture (EDA), SaaS Multitenant
+* **AI & Data Engineering:** Python, RAG Architecture, LangChain, Vector DBs (ChromaDB), GenAI (Gemini / Local LLMs), OCR
 * **DevOps & Infra:** Kubernetes (k3d), Docker, Helm, Skaffold, Observability (Prometheus/Grafana)
-* **Front-end & Tooling:** Next.js 14, TypeScript, Supabase
+* **Front-end & Tooling:** Next.js 14, TypeScript, Tailwind CSS, Supabase
 
-## My Skill Set  
+## My Skill Set 
 
 <div align="center">
 <table>
@@ -33,6 +37,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="50" />
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="PyQt6" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50" />
       </div>
     </td>
     <td valign="top" width="50%" align="left">
@@ -52,6 +57,7 @@
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
         <img style="margin: 10px" src="https://cdn.simpleicons.org/pydantic/E92063" alt="Pydantic" height="50" />
         <img style="margin: 10px" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="50" />
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" height="50" />
       </div>
     </td>
   </tr>
