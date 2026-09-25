@@ -4,13 +4,11 @@
 **What I'm currently architecting and developing:**
 
 * **[NFSe SaaS Platform](https://github.com/Victor-Vaglieri/NFSe-Plat) (OCR & Multitenant Architecture)**: Architecting a robust SaaS platform for automated fiscal document management and OCR extraction. Engineered with a dual-backend strategy (**FastAPI/Python** and **Java 21/Spring Boot**), integrating **Next.js 14**, **PostgreSQL**, and native PDF parsing (Apache PDFBox) for intelligent data extraction.
-* [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(Event-Driven Architecture)**: Engineering a high-performance portfolio and AI-powered CV matching engine using **Java 21, Spring Boot 3**, and **Redis Streams**, seamlessly integrated with Next.js 14 and PostgreSQL.
 
 **Recently Completed Projects:**
 
+* [LiveFolio](https://github.com/Victor-Vaglieri/LiveFolio) **(Event-Driven Architecture)**: Engineered a high-performance portfolio and AI-powered CV matching engine using **Java 21, Spring Boot 3**, and **Redis Streams**, seamlessly integrated with Next.js 14 and PostgreSQL.
 * [AI-DE-S](https://github.com/Victor-Vaglieri/AI-DE-S) **(AI-Powered ETL)**: Designed and deployed resilient, asynchronous web-scraping and ETL pipelines with Python, Playwright, and the Google Gemini API to transform unstructured data into strictly typed JSON/Pydantic schemas.
-* [kube-backlab](https://github.com/Victor-Vaglieri/kube-backlab) **(Cloud-Native Lab)**: Orchestrated a programmable, production-inspired local infrastructure using **k3d (Kubernetes), Skaffold, and Helm**, featuring native observability with Prometheus and Grafana.
-* [book-brain](https://github.com/Victor-Vaglieri/book-brain) **(Local-First AI)**: Built a secure, offline AI PDF reader driven by a RAG architecture, semantic chunking (LangChain), cross-encoder re-ranking, and local LLM inference via **Ollama** and **ChromaDB**.
 
 **Tech Stack & Current Focus:**
 
