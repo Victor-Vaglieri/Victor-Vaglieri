@@ -110,5 +110,10 @@
 <a href="https://leetcode.com/u/VictorVaglieri/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
 </a>
+<a href="https://victor-vaglieri-oliveira.vercel.app/?source=resume" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+
+
 
 <br/>  
